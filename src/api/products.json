@@ -1,0 +1,284 @@
+[
+    {
+        "id" : 1,
+        "name" : "فراخ محمرة",
+        "price" : 70,
+        "description" : "وجبة فراخ محمرة تكفي فردين",
+        "img" : "/images/fried-meat-on-white-plate-2338407.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "قطع كنتاكي محمصة",
+        "description" : "وجبة تكفي فردين",
+        "price" : 80,
+        "img" : "/images/cooked-leg-chicken-with-green-vegetable-leaf-60616.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "استربس مقرمش",
+        "price" : 80 ,
+        "description" : "وجبة تكفي فردين",
+        "img" : "/images/fried-meat-on-top-of-white-plate-1059943.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "طبق فراخ عائلي",
+        "price" : 150,
+        "description" : "وجبة عائلي + ارز + سلطة",
+        "img" : "/images/food-dish-served-on-black-ceramic-plate-958544.jpg"
+
+    },
+    {
+        "id" : 5,
+        "name" : "باستا بالصوص",
+        "price" : 45 ,
+        "description" : "طبق باستا بالصوص الاحمر والجبنة المودزريلا",
+        "img" : "/images/pasta-with-green-leaf-and-chili-pepper-1460872.jpg"
+    },
+
+    {
+        "id" : 6,
+        "name" : "باستا بالجبن",
+        "price" : 60 ,
+        "description" : "طبق باستا بجميع انواع الجبن",
+        "img" : "/images/close-up-photography-of-baked-mac-806357.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "باستا بقطع البانيه",
+        "price" : 70 ,
+        "description" : "طبق باستا بقطع البانيه والجبنة المودزريلا",
+        "img" : "/images/flat-lay-photography-of-pasta-served-in-white-plate-1487511.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "باستا بقطع اللحمه",
+        "price" : 70 ,
+        "description" : "طبق باستا بقطع اللحمه والجبن المختلفة",
+        "img" : "/images/pasta-on-white-plate-on-focus-photo-1527603.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : " بيتزا بالجنبري ",
+        "price" : 95 ,
+        "description" : " حجم عائلي ",
+        "img" : "/images/news_3069.png"
+
+    },
+    {
+        "id" : 10,
+        "name" : "بيتزا مارجيرتا",
+        "price" : 70,
+        "description" : " بيتزا مارجيرتا حجم وسط",
+        "img" : "/images/dinner-fast-food-lunch-meal-3644.jpg"
+
+    },
+    {
+        "id" : 11,
+        "name" : "بيتزا بالجبن",
+        "description" : " بيتزا بالجبن حجم وسط",
+        "price" : 70,
+        "img" : "/images/one-cheese-pizza-2741457.jpg"
+
+    },
+    {
+    "id" : 12,
+    "name" : "بيتزا بالسوسيس",
+    "description" : " بيتزا بالسوسيس حجم وسط",
+    "price" : 70,
+    "img" : "/images/closeup-photography-of-pizza-1252841.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "بيتزا بالسوسيس + شرائح البيض",
+        "price" : 70,
+        "img" : "/images/pizza-with-egg-photo-845812.jpg"
+    },
+    {
+        "id" : 14,
+        "name" : " بيتزا باللانشون",
+        "price" : 80,
+        "img" : "/images/pepperoni-pizza-2271196.jpg"
+    },
+    {
+        "id" : 15,
+        "name" : "لحمة علي الفحم",
+        "description" : " طبق لحمة ستيك علي الفحم حجم وسط",
+        "price" : 100,
+        "img" : "/images/close-up-photo-of-man-cooking-meat-1482803.jpg"
+    },
+    {
+        "id" : 16,
+        "name" : "شرائح لحمة مشويه",
+        "price" : 110,
+        "img" : "/images/cooked-meat-2098110.jpg"
+    },
+    {
+        "id" : 17,
+        "name" : "باربكيو بيف",
+        "price" : 130,
+        "img" : "/images/barbecue-bbq-beef-brown-236887.jpg"
+    },
+    {
+        "id" : 18,
+        "name" : "طبق لحمة بالارز ",
+        "price" : 70,
+        "img" : "/images/cooked-meat-on-plate-2313686.jpg"
+    },
+    {
+        "id" : 19,
+        "name" : " سندوتش برجر ",
+        "description" : " سندوتش برجر يكفي فرد + باكت بطاطس",
+        "price" : 40,
+        "img" : "/images/food-dinner-lunch-unhealthy-70497.jpg"
+    },
+    {
+        "id" : 20,
+        "name" : "سندوتش بيف برجر",
+        "description" : " سندوتش بيف برجر يكفي فرد + باكت بطاطس",
+        "price" : 50,
+        "img" : "/images/beef-blur-bread-bun-551991.jpg"
+    },
+    {
+        "id" : 21,
+        "name" : " بيج برجر ",
+        "description" : " سندوتش بيج برجر + باكت بطاطس",
+        "price" : 90,
+        "img" : "/images/meat-burger-with-coleslaw-on-side-and-brown-handled-fork-156114.jpg"
+    },
+    {
+        "id" : 22,
+        "name" : "سندوتشين برجر + خصم",
+        "description" : "اطلب سندوتش بيج برجر + واحد صغير عليه + باكت بطاطس + بيبسي عائلي ",
+        "price" : 100,
+        "img" : "/images/mouth-watering-hamburgers-3052362.jpg"
+    },
+    {
+        "id" : 23,
+        "name" : "برجر فراخ",
+        "description" : "اطلب سندوتش بيج برجر فراخ + باكت بطاطس + بيبسي ",
+        "price" : 70,
+        "img" : "/images/burger-beside-coca-cola-bottle-2983103.jpg"
+    },
+    {
+        "id" : 24,
+        "name" : "طبق فراخ فرن",
+        "description" :   " طبق فراخ فرن حجم عائلي + بيبسي ",
+        "price" : 130,
+        "img" : "/images/food-restaurant-meal-chicken-106343.jpg"
+    },
+    {
+        "id" : 25,
+        "name" : "طبق فراخ بانيه  ",
+        "description" :   " طبق فراخ بانيه يكفي فردين + بيبسي ",
+        "price" : 70,
+        "img" : "/images/fried-meat-with-potato-fries-and-ketchup-dip-on-plate-1352270.jpg"
+    },
+    {
+        "id" : 26,
+        "name" : " طبق سوشي ياباني",
+        "description" :   " طبق سوشي ياباني يكفي تلت افراد ",
+        "price" : 100,
+        "img" : "/images/assorted-japanesse-food-2323398.jpg"
+    },
+    {
+        "id" : 27,
+        "name" : "سمك سنجاري ",
+        "description" :   " الكمية خمس سمكات سنجاري + خمس اطباق ارز + كيسين سلطة ",
+        "price" : 140,
+        "img" : "/images/avocado-cooked-delicious-dish-262959.jpg"
+    },
+    {
+        "id" : 28,
+        "name" : " طبق استكوذا",
+        "description" :   " طبق استكوذا عائلي",
+        "price" : 130,
+        "img" : "/images/cooked-crab-on-white-ceramic-palte-775863.jpg"
+    },
+    {
+        "id" : 29,
+        "name" : " طبق سالمون",
+        "price" : 100,
+        "img" : "/images/salmon-and-green-vegetable-salad-3662189.jpg"
+    },
+    {
+        "id" : 30,
+        "name" :  " طبق جنبري  ",
+        "description" :   " طبق جنبري وسط",
+        "price" : 130,
+        "img" : "/images/shrimp-on-black-pan-679454.jpg"
+    },
+    {
+        "id" : 31,
+        "name" : " مكرونه بالجنبري",
+        "description" :   " طبق مكرونه بالجنبري وسط",
+        "price" : 70,
+        "img" : "/images/shrimp-pasta-served-on-gray-plate-2092906.jpg"
+    },
+    {
+        "id" : 32,
+        "name" : " طبق سوشي عائلي",
+        "price" : 130,
+        "img" : "/images/sushi-rolls-684965.jpg"
+    },
+    {
+        "id" : 33,
+        "name" : " طبق جنبري جمبو ",
+        "description" :   "  طبق جنبري جمبو + طبق رز سمك + سلطة ",
+        "price" : 150,
+        "img" : "/images/three-cooked-shrimps-on-can-725992.jpg"
+    },
+    {
+        "id" : 34,
+        "name" : "طبق جنبري صغير  ",
+        "price" : 100,
+        "img" : "/images/garlic-shrimp-dish-699544.jpg"
+    },
+    {
+        "id" : 35,
+        "name" : "طبق سلطة ",
+        "price" : 30,
+        "description" :   " طبق سلطة بالجبنة والزيتون والزيت والخضراوات الصحية  ",
+        "img" : "/images/vegetable-salad-on-plate-1059905.jpg"
+    },
+    {
+        "id" : 36,
+        "name" : "طبق سلطة ",
+        "price" : 40,
+        "description" :    " طبق سلطة بالكريمة علي الوش",
+        "img" : "/images/vegetable-salad-on-top-of-white-ceramic-plate-764925.jpg"
+    },
+    {
+        "id" : 37,
+        "name" : "طبق شوربة ",
+        "price" : 20,
+        "img" : "/images/bowl-of-soup-3559899.jpg"
+    },
+    {
+        "id" : 38,
+        "name" : "طبق شوربة ",
+        "price" : 30,
+        "description" :    " طبق شوربة باللحمة البلدي",
+        "img" : "/images/noodles-soup-with-meat-on-bowl-1731535.jpg"
+    },
+    {
+        "id" : 39,
+        "name" : "طبق شوربة جنبري ",
+        "price" : 30,
+        "img" : "/images/shrimp-soup-in-white-ceramic-bowl-with-chili-on-brown-wooden-1437590.jpg"
+    },
+    {
+        "id" : 40,
+        "name" : "طبق شوربة بالخضار ",
+        "price" : 20,
+        "img" : "/images/stew-with-meat-and-vegetables-placed-in-white-ceramic-bowl-772518.jpg"
+    },
+    {
+        "id" : 41,
+        "name" : "طبق سلطة طحينة ",
+        "price" : 15,
+        "img" : "/images/soup-in-a-bowl-1707270.jpg"
+    }
+
+]
+
